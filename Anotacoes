@@ -1,0 +1,82 @@
+Scrum: framework agil. Sua caracteristica é trabalhar com time-boxes.
+
+Sprint:  tempo fixo. (no atual).
+- tempo do sprint (até  1 mês).
+- gerenciamento: tempox stress.
+
+
+Review meeting: (um time-box).
+- cliente x time (cliente ou usuário) 
+- não passa de  2,5% do tempo do sprint
+- teste usuário
+- itens pronto:
+-- pronto:  visão uniforme do time
+---sequencia de passos.
+
+Exemplo:
+1° aceitação do usuário
+2°desenvolvimento
+3° code review
+4° homologação
+-participam o time inteiro
+
+
+A Retrospectiva:(time box):
+-melhoria continua.
+-tecnica do postiche
+-> gerar ações para mudar
+
+Daily Scrum:
+- até 15 min
+- desenvolvedores, Scrum master e PO.
+- gerar ações para mudar 
+- em pé/mesmo horário/mesmo lugar
+
+
+- o que fez ?
+- o que fara ?
+- Quais problemas enfrentou ?
+
+Reunião de Planejamento (planning meeting)
+- 5%  do tempo da sprint
+- participantes (desen, scrum master,  PO-trazer tarefas)
+
+Sprint backlog:  lista priorizada.
+
+História:
+topoicos:
+- para..
+- como..
+- quero..
+
+sub-item: task/tarefa
+
+Product Backlog: historia
+Spritn backlog: tarefas
+Sprign backlog: lista de tarefas de uma sprint.
+
+Scrum master: 
+- facilitador
+- educa sobre o processo
+- resolve impedimento
+
+problema- time   x impedimento:  problema que o time já tentou resolver, mas não foi resolvido.
+
+Product owner: 
+- representa o cliente no time
+- mantém o backlog atualizado
+- falar com o cliente
+
+Desenvolvedores:
+- todos que ajudam o projeto a andar.
+- estimam o esforço p realização de uma tarefa
+- negociam quais tarefas serão realizadas no spring
+- decidem quem faz o que
+
+Time:
+- melhoria continua
+- Scrum master não pode ser o PO
+
+
+
+
